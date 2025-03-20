@@ -1,4 +1,8 @@
 # DigitalMarket - The Future Market
+Developed a scalable platform where merchants can create profiles, list products, and manage orders efficiently.
+Implemented an AI-powered recommendation system for personalized product discovery and a hyperlocal search algorithm to connect users with nearby stores.
+Integrated UPI-based payment methods for secure and seamless transactions, enhancing the user experience and checkout efficiency.
+Optimized the platform for performance, scalability, and mobile responsiveness, ensuring smooth functionality across devices.
 
 ## Proposed Features & Enhancements
 
