@@ -1,5 +1,3 @@
-# DigitalMarket is the future Market
-
 # DigitalMarket - The Future Market
 
 ## Proposed Features & Enhancements
